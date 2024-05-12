@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Netlux Delar Portal</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="my_activation">My Activation</string>
+    <string name="my_renewal">My Renewals</string>
+    <string name="nxav_gc_rewards">NXAV GC Rewards</string>
+    <string name="current_scheme">Current Scheme</string>
+    <string name="order_netlux">Order Netlux</string>
+    <string name="netlux_topup">Netlux Topup</string>
+    <string name="customer_search">Customer Search</string>
+    <string name="technical_helpline">Technical Helpline</string>
+    <string name="marketing_helpline">Marketing Helpline</string>
+    <string name="testuser">Test User</string>
+    <string name="openDrawer">Open Drawer</string>
+    <string name="closeDrawer">Close Drawer</string>
+    <string name="enter_mobile_number">  Enter mobile number</string>
+    <string name="send_otp">GET OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="sign_in">Sign In</string>
+    <string name="did_not_have_an_account">Didn\'t have an account?</string>
+    <string name="register">Sign Up</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="total_activation_count">Total Activation Count:</string>
+    <string name="activation_helpline_1">+91 7843000430</string>
+    <string name="activation_helpline_2">+91 7843000431</string>
+    <string name="activation_helpline_3">+91 7843000432</string>
+    <string name="technical_helpline_1">+91 7843000437</string>
+    <string name="technical_helpline_2">+91 7843000438</string>
+    <string name="technical_helpline_3">+91 7843000439</string>
+    <string name="marketing_helpline_1">+91 7843000458</string>
+    <string name="marketing_helpline_2">+91 7843000447</string>
+    <string name="marketing_helpline_3">+91 8421009386</string>
+    <string name="please_wait">Please wait</string>
+    <string name="fcm_message">Netlux DP</string>
+    <string name="this_functionality_is_under_process">This functionality is Under Process</string>
+    <string name="product_key_specific_digits">abcdef0123456789</string>
+
+    <string-array name="product_types">
+        <item>NXAV-Netlux Total Security</item>
+        <item>NXTS-Netlux Antivirus Pro</item>
+        <item>NXIS-Netlux Internet Security</item>
+
+    </string-array>
+</resources>
